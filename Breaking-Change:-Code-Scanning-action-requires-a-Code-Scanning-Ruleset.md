@@ -1,6 +1,6 @@
 # Code Scanning action requires a Code Scanning Ruleset
 
-As of [check-spelling v0.0.25](https://github.com/check-spelling/check-spelling/releases/tag/v0.0.25), if you enable [[SARIF output|Feature: SARIF output]], then check-spelling will not yield an :x: for errors. If you are relying on status checks, you'll need to add a code-scanning rule instead. The following is an example of a code-scanning rule which should work:
+As of [check-spelling v0.0.25](https://github.com/check-spelling/check-spelling/releases/tag/v0.0.25), if you enable [SARIF output](./Feature:-SARIF-output.md), then check-spelling will not yield an :x: for errors. If you are relying on status checks, you'll need to add a code-scanning rule instead. The following is an example of a code-scanning rule which should work:
 
 ## Sample ruleset
 
@@ -50,3 +50,6 @@ As of [check-spelling v0.0.25](https://github.com/check-spelling/check-spelling/
 ## Information about Rulesets
 
 For more information on Rulesets, see [Creating rulesets for a repository](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/creating-rulesets-for-a-repository).
+
+---
+[FAQ](FAQ.md) | [Showcase](Showcase.md) | [Event descriptions](Event-descriptions.md) | [Configuration information](Configuration-information.md) | [Known Issues](Known-Issues.md) | [Possible features](Possible-features.md) | [Deprecations](Deprecations.md) | [Release notes](Release-notes.md) | [Helpful scripts](Helpful-scripts.md)

@@ -12,3 +12,6 @@ Ideally, if, when you use check-spelling, the checkout fails, you should be able
 If check-spelling can suggest a likely cause and solution, it will.
 
 If it can't, it will suggest looking for a ticket for [`checkout-failed-unknown-cause`](https://github.com/check-spelling-sandbox/check-spelling/issues?q=is%3Aissue%20checkout-failed-unknown-cause) and possibly filing one if you can't find a relevant issue. This feature will be improved in the future as other causes are analyzed.
+
+---
+[FAQ](FAQ.md) | [Showcase](Showcase.md) | [Event descriptions](Event-descriptions.md) | [Configuration information](Configuration-information.md) | [Known Issues](Known-Issues.md) | [Possible features](Possible-features.md) | [Deprecations](Deprecations.md) | [Release notes](Release-notes.md) | [Helpful scripts](Helpful-scripts.md)

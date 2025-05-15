@@ -10,3 +10,6 @@ Old|New|Supported since
 ## Migration
 
 You can simply rename the files in your configuration directory. For `advice.md`, you can include Markdown.
+
+---
+[FAQ](FAQ.md) | [Showcase](Showcase.md) | [Event descriptions](Event-descriptions.md) | [Configuration information](Configuration-information.md) | [Known Issues](Known-Issues.md) | [Possible features](Possible-features.md) | [Deprecations](Deprecations.md) | [Release notes](Release-notes.md) | [Helpful scripts](Helpful-scripts.md)
